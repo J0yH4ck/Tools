@@ -4,3 +4,10 @@ __pycache__/
 
 # 忽略虚拟环境 
 .venv/
+
+# Go
+bin/
+*.exe
+
+# OS
+.DS_Store
