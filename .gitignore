@@ -1,0 +1,6 @@
+# Python 忽略文件
+__pycache__/
+*.py[cod]
+
+# 忽略虚拟环境 
+.venv/
