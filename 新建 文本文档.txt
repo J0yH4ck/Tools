@@ -1,6 +1,0 @@
-# Python 忽略文件
-__pycache__/
-*.py[cod]
-
-# 忽略虚拟环境 (根据你的实际文件夹名字修改，常见的是 venv 或 .venv)
-.venv/
